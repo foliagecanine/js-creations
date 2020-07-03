@@ -142,4 +142,4 @@ function changeTrack() {
 		$('#multi').val(1);
 	}
 	reader.readAsArrayBuffer(file.files[0])
-}/projects/js-creations/js-window-manager/
+}
